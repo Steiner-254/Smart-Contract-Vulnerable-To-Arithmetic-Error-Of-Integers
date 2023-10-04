@@ -1,7 +1,7 @@
 # Smart-Contract-Vulnerable-To-Arithmetic-Error-Of-Integers
 Smart Contract Vulnerable To Arithmetic Error Of Integers
 
-#Description
+# Description
 ~ A common vulnerability related to arithmetic errors in smart contracts involves the underflow or overflow of integer variables. Let's consider a simple example of a vulnerable smart contract written in Solidity, Ethereum's smart contract programming language: vulnerable.sol
 
 # vulnerable.sol
